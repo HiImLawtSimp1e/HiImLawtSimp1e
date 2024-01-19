@@ -1,4 +1,4 @@
-### Hi guys! Lawther here 👋
+### Hi guys! Lawther's here 👋
 
 ```javascript
 const lawter: Developer = {
