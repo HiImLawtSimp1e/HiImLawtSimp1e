@@ -1,7 +1,7 @@
 ### Hi guys! Lawther's here 👋
 
 ```javascript
-const lawter: Developer = {
+const lawther: Developer = {
     pronouns: "He" | "Him",
     code: ["CSharp", "Javascript", "Typescript", "Python"],
     technologies: {
