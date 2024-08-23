@@ -6,7 +6,7 @@ const lawther: Developer = {
     code: ["CSharp", "Javascript", "Typescript", "Python"],
     technologies: {
         backEnd: ["ASP.NET Core", "Expressjs", "Django"],
-        frontEnd: ["Reactjs", "Nextjs"],
+        frontEnd: ["Reactjs", "Nextjs", "Tailwindcss"],
         databases: ["MSSQL", "MySQL","MongoDB"],
     },
     architecture: ["Layered", "MVC", "Microservices", "Clean Architecture"],
