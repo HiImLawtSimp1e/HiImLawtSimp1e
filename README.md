@@ -5,12 +5,12 @@ const lawther: Developer = {
     pronouns: "He" | "Him",
     code: ["CSharp", "Javascript", "Typescript", "Python"],
     technologies: {
-        backEnd: ["ASP.NET Core" | "EF Core", "Nodejs/Expressjs", "Django"],
+        backEnd: ["ASP.NET Core", "Expressjs", "Django"],
         frontEnd: ["Reactjs", "Nextjs"],
         databases: ["MSSQL", "MySQL","MongoDB"],
     },
-    architecture: ["MVC architecture", "3 Layer Architecture", "Microservices"],
-    education: ["FPT Polytechnich College"],
+    architecture: ["Layered", "MVC", "Microservices", "Clean Architecture"],
+    education: ["FPT Polytechnich College of Hanoi"],
     hobbies: ["Playing Game", "Running", "Riding Bike", "Reading Book & Manga", "Watch Anime"]
 };
 ```
