@@ -9,7 +9,7 @@ const lawther: Developer = {
         frontEnd: ["Reactjs", "Nextjs", "Tailwindcss"],
         databases: ["MSSQL", "MySQL","MongoDB"],
     },
-    architecture: ["Layered", "MVC", "Microservices", "Clean Architecture"],
+    architecture: ["Microservices", "Clean Architecture", "N-Layer", "Vertical-Slice", "MVC"],
     education: ["FPT Polytechnich College of Hanoi"],
     hobbies: ["Playing Game", "Running", "Riding Bike", "Reading Book & Manga", "Watch Anime"]
 };
