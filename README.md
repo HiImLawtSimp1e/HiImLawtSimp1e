@@ -10,8 +10,8 @@ const lawther: Developer = {
         databases: ["MSSQL", "MySQL", "Postgresql", "MongoDB"],
         cicdTools: ["Git", "Docker", "Vercel"]
     },
-    architecture: ["Microservices", "Clean Architecture", "N-Layer", "Vertical-Slice Architecture", "MVC"],
-    designPattern: ["Domain-Driven Design", "CQRS", "Mediator", "ORM", "Repository", .etc],
+    architecture: ["Microservices", "CQRS", "Vertical-Slice Architecture", "Clean Architecture", "N-Layer", "MVC"],
+    designPattern: ["Domain-Driven Design", "Mediator", "ORM", "Repository", .etc],
     education: ["FPT Polytechnich College of Hanoi"],
     tutorialSource: ["Mehmet Ozkaya", "Milan Jovanović", "Patrick God"],
     hobbies: ["Playing Game", "Running", "Riding Bike", "Reading Book & Manga", "Watch Anime"]
