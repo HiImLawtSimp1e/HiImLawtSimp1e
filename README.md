@@ -11,7 +11,7 @@ const lawther: Developer = {
         cicdTools: ["Git", "Docker", "Vercel"]
     },
     architecture: ["Microservices", "CQRS", "Vertical-Slice Architecture", "Clean Architecture", "N-Layer", "MVC"],
-    designPattern: ["Domain-Driven Design", "Mediator", "ORM", "Repository", .etc],
+    pattern: ["Domain-Driven Design", "Mediator", "ORM", "Repository", "Unit of Work", "Singleton", .etc],
     education: ["FPT Polytechnich College of Hanoi"],
     tutorialSource: ["Mehmet Ozkaya", "Milan Jovanović", "Patrick God"],
     hobbies: ["Playing Game", "Running", "Riding Bike", "Reading Book & Manga", "Watch Anime"]
