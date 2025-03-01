@@ -7,7 +7,10 @@ const lawther: Developer = {
     technologies: {
         backEnd: ["ASP.NET Core", "Expressjs" ],
         frontEnd: ["Reactjs", "Nextjs", "Tailwindcss"],
-        databases: ["MSSQL", "MySQL", "Postgresql", "MongoDB"],
+        databases: [
+           rdmbs: ["MSSQL", "MySQL", "Postgresql", "MongoDB"],
+           documentDb: ["MongoDB", "Redis"]
+        ]
         cicdTools: ["Git", "Docker", "Vercel"]
     },
     architecture: ["Microservices", "CQRS", "Vertical-Slice Architecture", "Clean Architecture", "N-Layer", "MVC"],
@@ -33,6 +36,7 @@ const lawther: Developer = {
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis"  alt="Redis" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" **alt="Trello" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
