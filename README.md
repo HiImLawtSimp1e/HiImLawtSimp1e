@@ -8,7 +8,7 @@ const lawther: Developer = {
         backEnd: ["ASP.NET Core", "Expressjs" ],
         frontEnd: ["Reactjs", "Nextjs", "Tailwindcss"],
         databases: [
-           rdmbs: ["MSSQL", "MySQL", "Postgresql", "MongoDB"],
+           rdmbs: ["MSSQL", "MySQL", "PostgreSQL"],
            documentDb: ["MongoDB", "Redis"]
         ]
         cicdTools: ["Git", "Docker", "Vercel"]
