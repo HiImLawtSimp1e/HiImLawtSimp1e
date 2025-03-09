@@ -13,7 +13,7 @@ const lawther: Developer = {
         ]
         cicdTools: ["Git", "Docker", "Vercel"]
     },
-    architecture: ["Microservices", "CQRS", "Vertical-Slice Architecture", "Clean Architecture | "Domain-Driven Design approach", "N-Layer", "MVC"],
+    architecture: ["Microservices", "CQRS", "Vertical-Slice Architecture", "Clean Architecture" | "Domain-Driven Design approach", "N-Layer", "MVC"],
     education: ["FPT Polytechnich College of Hanoi"],
     tutorialSource: ["Mehmet Ozkaya", "Milan Jovanović", "Patrick God"],
     hobbies: ["Playing Game", "Running", "Riding Bike", "Reading Book & Manga", "Watch Anime"]
