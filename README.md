@@ -1,22 +1,11 @@
 ### Hi guys! Lawther's here 👋
 
+### Honestly, I have nothing to prove
+
 ```javsscript
-const lawther: Developer = {
-    pronouns: "He" | "Him",
+const lawther = {
+    pronouns: "Something",
     code: ["CSharp", "Javascript" | "Typescript"],
-    technologies: {
-        backEnd: ["ASP.NET Core | "EF Core ORM", "Expressjs" ],
-        frontEnd: ["Reactjs", "Nextjs", "Tailwindcss"],
-        databases: [
-           rdmbs: ["MSSQL", "MySQL", "PostgreSQL"],
-           documentDb: ["MongoDB", "Redis"]
-        ]
-        cicdTools: ["Git", "Docker", "Vercel"]
-    },
-    architecture: ["Microservices", "CQRS", "Vertical-Slice Architecture", "Clean Architecture" | "Domain-Driven Design approach", "N-Layer", "MVC"],
-    education: ["FPT Polytechnich College of Hanoi"],
-    tutorialSource: ["Mehmet Ozkaya", "Milan Jovanović", "Patrick God"],
-    hobbies: ["Playing Game", "Running", "Riding Bike", "Reading Book & Manga", "Watch Anime"]
 };
 ```
 #### :hammer_and_wrench: Languages and Tools :
